@@ -7,7 +7,7 @@
  3. Start Bluetooth, GAP and GATT framework.
  4. Make the device visible and connectable.
  5. Publish as GATT characteristics some random values. 
- 6. *What can I do with GATT characteristics?* Read them using smartphone apps (nRF connect for Android, as example) or play with them using Pyhton (GATT library). 
+ 6. *What can I do with GATT characteristics?* Read them using smartphone apps (nRF connect for Android, as example) or play with them using Pyhton (GATT library https://github.com/getsenic/gatt-python). 
 
 ## Future work
 Expand this to read values from the sensors of the BlueNRG-Tile Evaluation Board from ST and publish them. 
