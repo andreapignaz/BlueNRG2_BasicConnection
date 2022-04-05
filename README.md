@@ -1,5 +1,5 @@
 # BlueNRG2_BasicConnection
- Simple code to configure connection and GATT on a BlueNRG 2 microcontroller from ST. With a lot of nice comments :)
+ Simple code to configure connection and GATT on a BlueNRG 2 microcontroller from ST. With a lot of nice comments 😄🐧
 
  ## What does it do (SPOILER: nothing useful 😎)
  1. Initialize the platform.
@@ -10,7 +10,8 @@
  6. *What can I do with GATT characteristics?* Read them using smartphone apps (nRF connect for Android, as example) or play with them using Pyhton (GATT library https://github.com/getsenic/gatt-python). 
 
 ## Future work
-Expand this to read values from the sensors of the BlueNRG-Tile Evaluation Board from ST and publish them. 
+1. Make modular code 
+2. Make it read values from the sensors embedded in the ST BlueTile and publish them via Bluetooth. 
 
 ## How to compile, build and so on.
 1. Get KEIL uVision for ST Microelectronics from https://www2.keil.com/stmicroelectronics-stm32/mdk
