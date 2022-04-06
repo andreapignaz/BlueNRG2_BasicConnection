@@ -1,5 +1,5 @@
 # BlueNRG2_BasicConnection
- Simple code to configure connection and GATT on a BlueNRG 2 microcontroller from ST. With a lot of nice comments 😄🐧
+ Simple code to configure connection and GATT on a BlueNRG 2 microcontroller from ST. With a lot of nice comments :)
 
  ## What does it do (SPOILER: nothing useful 😎)
  1. Initialize the platform.
